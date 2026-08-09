@@ -1,0 +1,20 @@
+package com.sabibiz.enums;
+
+public enum ExpenseCategory {
+    RENT,
+    UTILITIES,
+    SALARIES,
+    MARKETING,
+    OFFICE_SUPPLIES,
+    MAINTENANCE,
+    INSURANCE,
+    TAXES,
+    LEGAL_PROFESSIONAL,
+    TRAVEL,
+    EQUIPMENT,
+    SOFTWARE_SUBSCRIPTIONS,
+    BANK_FEES,
+    INTEREST,
+    DEPRECIATION,
+    OTHER
+}
