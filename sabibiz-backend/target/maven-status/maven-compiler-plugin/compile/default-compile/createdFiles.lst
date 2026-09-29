@@ -160,6 +160,7 @@ com/sabibiz/repository/BaseRepository.class
 com/sabibiz/entity/Supplier.class
 com/sabibiz/entity/Product$ProductBuilder.class
 com/sabibiz/entity/Supplier$SupplierBuilder.class
+com/sabibiz/config/WebConfig$1.class
 com/sabibiz/dto/request/PurchaseOrderRequest.class
 com/sabibiz/dto/response/SupplierResponse$SupplierResponseBuilder.class
 com/sabibiz/service/impl/CustomerServiceImpl.class
